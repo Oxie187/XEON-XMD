@@ -9,7 +9,7 @@ const config = {
   SUDO_NUMBER: process.env.SUDO_NUMBER || "254759000340",
   
   // 🧠 Core Bot Identity & Information
-  SESSION_ID: process.env.SESSION_ID || "XTREME~z0wdHks8",
+  SESSION_ID: process.env.SESSION_ID || "XEON-XTECH~IcAVGbRI#VLak6DF-1AjwvZcjrCTQdC7m6BfJ3PHzOr2S5b1l5ko",
   PREFIX: process.env.PREFIX || '.',
   BOT_NAME: process.env.BOT_NAME || "Xeon-Xtech",
   BOT: process.env.BOT || "hello 👋", 
